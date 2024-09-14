@@ -1,2 +1,2 @@
 # FSST - Fachspezifische Softwaretechnik
-(Fast) Alle **C - Proggramme** die ich im FSST unterricht geschrieben habe.
+(Fast) Alle **C - Proggramme/source code** die ich im FSST unterricht geschrieben habe.
