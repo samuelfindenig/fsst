@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -20,18 +21,15 @@ void lottozahlen(void) {
 	scanf_s("%d", &n_tips);
 
 	for (int i = 0; i < n_tips; i++) {
-		int lottozahlen[7] = {0}, zahl = 0;
+		int lottozahlen[7] = { 0 }, zahl = 0;
 
 		while (zahl < 7) {
 			int num = randint(1, 45);
 			if (InArry(7, lottozahlen, num) == 1) {
 				lottozahlen[zahl] = num;
+				printf("%d ", lottozahlen[zahl]);
 				zahl++;
 			}
-		}
-
-		for (int j = 0; j < 7; j++) {
-			printf("%d\t", lottozahlen[j]);
 		}
 		printf("\n");
 	}
@@ -39,7 +37,6 @@ void lottozahlen(void) {
 
 int main(void) {
 	srand(time(0));
-	
 	lottozahlen();
 
 	return 0;
