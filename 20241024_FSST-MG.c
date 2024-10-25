@@ -35,7 +35,7 @@ void checkPassword(char password[]) {
 			(check(password, 57, 48) == 1)	&&
 			((check(password, 47, 33) == 1) || (check(password, 64, 60) == 1) || (check(password, 96, 91) == 1) || (check(password, 126, 123) == 1)) &&
 			(strlen(password) > 7)) {
-			printf("Good Password!");
+			printf("Strong Password!");
 			break;
 		}
 		printf("Password not Secoure! Pleas reenter: ");
