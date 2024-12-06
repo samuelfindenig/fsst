@@ -1,7 +1,6 @@
 
 #include <Windows.h>
-//cursor_gotoxy(0,0) setzt den Cursor in die linke obere Ecke des Bilschirms
-//cursor_gotoxy(4,9) setzt den Cursor in die 9-te Zeile Ja und in die 4 Spalte (x) 
+
 void cursor_gotoxy(int spalte, int zeile)
 {
 	COORD coord;
