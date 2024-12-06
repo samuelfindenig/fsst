@@ -5,7 +5,7 @@ Ich weis geht spannender
 
 | Datum | Inhalt | File |
 |-------|--------|------|
-| 12.09.2024 | Rand Int | |
+| 12.09.2024 | Rand Int | [Test](https://github.com/samuelfindenig/fsst/blob/main/20240912_FSST-MG.c) |
 | 19.09.2024 | Logic-Schaltungen mit 1 und 0| |
 | 20.09.2024 | Schleifen ||
 | 26.09.2024 | Fib | |
