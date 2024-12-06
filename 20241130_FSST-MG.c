@@ -33,6 +33,6 @@ int main(void) {
 
 	fclose(handler);
 	fclose(handler2);  
-
+}
 
 

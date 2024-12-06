@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+
 int program3(void) {
 	for (int i = 1; i <= 32; i++) {
 		printf("%i \t %.0lf\n", i, pow(2, i));
@@ -9,7 +10,7 @@ int program3(void) {
 int program2(void) {
 	double f = 0.5f;
 	
-	while (f != 0.0) { //Flieskommazahlen können nie so Abgefragt werden
+	while (f != 0.0) { //Flieskommazahlen kï¿½nnen nie so Abgefragt werden
 		f -= 0.1;
 		printf("\n %f", f); 
 	}

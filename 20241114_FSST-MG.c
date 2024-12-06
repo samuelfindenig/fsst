@@ -18,7 +18,7 @@ void enter_and_check_email(char email[]) {
 	while (isTrue) {
 		int len = strlen(email);
 			if ((endsIn(email, ".at") == 0) && (number_of_ats == 0)) {
-				printf("Not Vaild !!\ Please Reenter: ");
+				printf("Not Vaild !!\n Please Reenter: ");
 				for (int i = 0; i < len; i++)
 					email[i] = 0;
 			}
@@ -36,7 +36,7 @@ int number_of_ats(char email[]) {
 	for (int i = 0; i < strlen(email); i++)
 		if (email[i] == '@')
 			count++;
-	return (count == 1) && (email[0] != '@';
+	return (count == 1) && (email[0] != '@');
 }
 
 
