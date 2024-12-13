@@ -22,3 +22,4 @@ Ich weis geht spannender
 | [30.11.2024](https://github.com/samuelfindenig/fsst/blob/main/20241130_FSST-MG.c) | Arbeiten mit Files |
 | [05.12.2024](https://github.com/samuelfindenig/fsst/blob/main/20241206_FSST-MG.c) | File Caeser-Entschlüsselen |
 | [06.12.2024](https://github.com/samuelfindenig/fsst/blob/main/20241205_FSST-MG.c) | Files - Nach schnelster zeit filtern und namen printen|
+| [13.12.2024](https://github.com/samuelfindenig/fsst/blob/main/20241213_FSST-MG.c) | Grundlagen Daten Struckturen |
