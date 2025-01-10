@@ -23,3 +23,4 @@ Ich weis geht spannender
 | [05.12.2024](https://github.com/samuelfindenig/fsst/blob/main/20241206_FSST-MG.c) | File Caeser-Entschlüsselen |
 | [06.12.2024](https://github.com/samuelfindenig/fsst/blob/main/20241205_FSST-MG.c) | Files - Nach schnelster zeit filtern und namen printen|
 | [13.12.2024](https://github.com/samuelfindenig/fsst/blob/main/20241213_FSST-MG.c) | Grundlagen Daten Struckturen |
+| [10.01.2025](https://github.com/samuelfindenig/fsst/blob/main/20250110_FSST-MG.c) | Introduction to pointers  & dynamik sorage|
